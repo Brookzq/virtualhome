@@ -1,0 +1,7250 @@
+{
+    "nodes": [
+        {
+            "id": 11,
+            "category": "Rooms",
+            "class_name": "livingroom",
+            "prefab_name": "PRE_ROO_Livingroom_04",
+            "obj_transform": {
+                "position": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.0,
+                    1.25,
+                    -1.25
+                ],
+                "size": [
+                    5.5,
+                    3.0,
+                    5.5
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 12,
+            "category": "Floor",
+            "class_name": "floor",
+            "prefab_name": "PRE_FLO_Wood_01_05",
+            "obj_transform": {
+                "position": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.25,
+                    0.0,
+                    0.0
+                ],
+                "size": [
+                    2.5,
+                    9.049975e-06,
+                    2.5
+                ]
+            },
+            "properties": [
+                "SURFACES"
+            ],
+            "states": []
+        },
+        {
+            "id": 13,
+            "category": "Floor",
+            "class_name": "floor",
+            "prefab_name": "PRE_FLO_Wood_01_05",
+            "obj_transform": {
+                "position": [
+                    2.5,
+                    0.0,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    1.25,
+                    0.0,
+                    0.0
+                ],
+                "size": [
+                    2.5,
+                    9.049975e-06,
+                    2.5
+                ]
+            },
+            "properties": [
+                "SURFACES"
+            ],
+            "states": []
+        },
+        {
+            "id": 14,
+            "category": "Floor",
+            "class_name": "floor",
+            "prefab_name": "PRE_FLO_Wood_01_05",
+            "obj_transform": {
+                "position": [
+                    2.5,
+                    0.0,
+                    -2.5
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    1.25,
+                    0.0,
+                    -2.5
+                ],
+                "size": [
+                    2.5,
+                    9.049975e-06,
+                    2.5
+                ]
+            },
+            "properties": [
+                "SURFACES"
+            ],
+            "states": []
+        },
+        {
+            "id": 15,
+            "category": "Floor",
+            "class_name": "floor",
+            "prefab_name": "PRE_FLO_Wood_01_05",
+            "obj_transform": {
+                "position": [
+                    0.0,
+                    0.0,
+                    -2.5
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.25,
+                    0.0,
+                    -2.5
+                ],
+                "size": [
+                    2.5,
+                    9.049975e-06,
+                    2.5
+                ]
+            },
+            "properties": [
+                "SURFACES"
+            ],
+            "states": []
+        },
+        {
+            "id": 16,
+            "category": "Walls",
+            "class_name": "wall",
+            "prefab_name": "PRE_WAL_PAI_Corner_02_05_03",
+            "obj_transform": {
+                "position": [
+                    -2.5,
+                    0.0,
+                    -2.5
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.25,
+                    1.25,
+                    -2.499998
+                ],
+                "size": [
+                    2.50000429,
+                    2.500009,
+                    2.50000381
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 17,
+            "category": "Walls",
+            "class_name": "wall",
+            "prefab_name": "PRE_WAL_PAI_Doorway_corner_01_05_03",
+            "obj_transform": {
+                "position": [
+                    2.5,
+                    0.0,
+                    -2.5
+                ],
+                "rotation": [
+                    0.0,
+                    -0.7071068,
+                    0.0,
+                    0.7071067
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    1.25001442,
+                    1.2500093,
+                    -2.49999976
+                ],
+                "size": [
+                    2.5000453,
+                    2.50002766,
+                    2.50000072
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 18,
+            "category": "Walls",
+            "class_name": "wall",
+            "prefab_name": "PRE_WAL_PAI_Doorway_corner_01_05_03",
+            "obj_transform": {
+                "position": [
+                    1.25,
+                    0.0,
+                    1.25
+                ],
+                "rotation": [
+                    0.0,
+                    -1.0,
+                    0.0,
+                    -1.62920685e-07
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    1.25,
+                    1.2500093,
+                    1.43051147e-05
+                ],
+                "size": [
+                    2.50000143,
+                    2.50002766,
+                    2.500046
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 19,
+            "category": "Walls",
+            "class_name": "wall",
+            "prefab_name": "PRE_WAL_WAL_Doorway_corner_01_01_03",
+            "obj_transform": {
+                "position": [
+                    -2.5,
+                    0.0,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.7071068,
+                    0.0,
+                    0.7071067
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.25001442,
+                    1.2500093,
+                    -5.066378e-07
+                ],
+                "size": [
+                    2.5000453,
+                    2.50002766,
+                    2.50000072
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 20,
+            "category": "Ceiling",
+            "class_name": "ceiling",
+            "prefab_name": "PRE_CEI_Paint_01_05",
+            "obj_transform": {
+                "position": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.25,
+                    2.50000024,
+                    -9.059906e-06
+                ],
+                "size": [
+                    2.5,
+                    9.059906e-06,
+                    2.5
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 21,
+            "category": "Ceiling",
+            "class_name": "ceiling",
+            "prefab_name": "PRE_CEI_Paint_01_05",
+            "obj_transform": {
+                "position": [
+                    2.5,
+                    0.0,
+                    0.0
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    1.25,
+                    2.50000024,
+                    -9.059906e-06
+                ],
+                "size": [
+                    2.5,
+                    9.059906e-06,
+                    2.5
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 22,
+            "category": "Ceiling",
+            "class_name": "ceiling",
+            "prefab_name": "PRE_CEI_Paint_01_05",
+            "obj_transform": {
+                "position": [
+                    2.5,
+                    0.0,
+                    -2.5
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    1.25,
+                    2.50000024,
+                    -2.500009
+                ],
+                "size": [
+                    2.5,
+                    9.059906e-06,
+                    2.5
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 23,
+            "category": "Ceiling",
+            "class_name": "ceiling",
+            "prefab_name": "PRE_CEI_Paint_01_05",
+            "obj_transform": {
+                "position": [
+                    0.0,
+                    0.0,
+                    -2.5
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.25,
+                    2.50000024,
+                    -2.500009
+                ],
+                "size": [
+                    2.5,
+                    9.059906e-06,
+                    2.5
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 24,
+            "category": "Doors",
+            "class_name": "doorjamb",
+            "prefab_name": "PRE_DOO_Doorjamb_06",
+            "obj_transform": {
+                "position": [
+                    -2.502,
+                    0.0,
+                    -0.006
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -2.50164318,
+                    1.029126,
+                    -0.006003904
+                ],
+                "size": [
+                    0.122323029,
+                    2.058256,
+                    0.9283974
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 25,
+            "category": "Doors",
+            "class_name": "doorjamb",
+            "prefab_name": "PRE_DOO_Doorjamb_06",
+            "obj_transform": {
+                "position": [
+                    2.5,
+                    0.0,
+                    -2.5
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    2.500357,
+                    1.029126,
+                    -2.50000381
+                ],
+                "size": [
+                    0.122323029,
+                    2.058256,
+                    0.9283974
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 26,
+            "category": "Doors",
+            "class_name": "doorjamb",
+            "prefab_name": "PRE_DOO_Doorjamb_06",
+            "obj_transform": {
+                "position": [
+                    1.25,
+                    0.0,
+                    1.25
+                ],
+                "rotation": [
+                    0.0,
+                    0.7071068,
+                    0.0,
+                    0.7071068
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    1.24999607,
+                    1.029126,
+                    1.249643
+                ],
+                "size": [
+                    0.928397536,
+                    2.058256,
+                    0.122323155
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 27,
+            "category": "Furniture",
+            "class_name": "sofa",
+            "prefab_name": "PRE_FUR_Sofa_02_03_02_02",
+            "obj_transform": {
+                "position": [
+                    -1.712,
+                    0.0,
+                    -2.27
+                ],
+                "rotation": [
+                    0.0,
+                    2.98023224e-08,
+                    0.0,
+                    1.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.72,
+                    0.57100004,
+                    -2.27
+                ],
+                "size": [
+                    1.0387001,
+                    0.9707001,
+                    2.3647
+                ]
+            },
+            "properties": [
+                "SURFACES",
+                "SITTABLE",
+                "LIEABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 29,
+            "category": "Furniture",
+            "class_name": "desk",
+            "prefab_name": "PRE_FUR_CPU_table_01_02",
+            "obj_transform": {
+                "position": [
+                    1.893,
+                    0.0,
+                    -0.7
+                ],
+                "rotation": [
+                    0.0,
+                    1.0,
+                    0.0,
+                    2.324581e-06
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    1.893,
+                    0.475000024,
+                    -0.7
+                ],
+                "size": [
+                    1.06799066,
+                    0.950000048,
+                    2.02800512
+                ]
+            },
+            "properties": [
+                "SURFACES",
+                "CAN_OPEN",
+                "MOVABLE"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 31,
+            "category": "Furniture",
+            "class_name": "wallshelf",
+            "prefab_name": "PRE_FUR_Shelf_08",
+            "obj_transform": {
+                "position": [
+                    0.001,
+                    1.73,
+                    -3.563
+                ],
+                "rotation": [
+                    0.0,
+                    -0.707106,
+                    0.0,
+                    0.7071076
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.001,
+                    1.656366,
+                    -3.56300116
+                ],
+                "size": [
+                    1.00000072,
+                    0.1819556,
+                    0.2722753
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 32,
+            "category": "Furniture",
+            "class_name": "wallshelf",
+            "prefab_name": "PRE_FUR_Shelf_07",
+            "obj_transform": {
+                "position": [
+                    0.001,
+                    1.041,
+                    -3.563
+                ],
+                "rotation": [
+                    0.0,
+                    -0.707106,
+                    0.0,
+                    0.7071076
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.001,
+                    0.967366,
+                    -3.56300116
+                ],
+                "size": [
+                    1.00000072,
+                    0.1819556,
+                    0.2722753
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 33,
+            "category": "Furniture",
+            "class_name": "wallshelf",
+            "prefab_name": "PRE_FUR_Shelf_06",
+            "obj_transform": {
+                "position": [
+                    1.599,
+                    1.041,
+                    -3.563
+                ],
+                "rotation": [
+                    0.0,
+                    -0.707106,
+                    0.0,
+                    0.7071076
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    1.599,
+                    0.967366,
+                    -3.56300116
+                ],
+                "size": [
+                    1.00000072,
+                    0.1819556,
+                    0.2722753
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 34,
+            "category": "Furniture",
+            "class_name": "wallshelf",
+            "prefab_name": "PRE_FUR_Shelf_05",
+            "obj_transform": {
+                "position": [
+                    1.599,
+                    1.73,
+                    -3.563
+                ],
+                "rotation": [
+                    0.0,
+                    -0.707106,
+                    0.0,
+                    0.7071076
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    1.599,
+                    1.656366,
+                    -3.56300116
+                ],
+                "size": [
+                    1.00000072,
+                    0.1819556,
+                    0.2722753
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 35,
+            "category": "Furniture",
+            "class_name": "nightstand",
+            "prefab_name": "PRE_FUR_Nightstand_01_10",
+            "obj_transform": {
+                "position": [
+                    -0.23,
+                    -0.002,
+                    0.913
+                ],
+                "rotation": [
+                    0.0,
+                    -0.707106,
+                    0.0,
+                    0.7071076
+                ],
+                "scale": [
+                    0.715638757,
+                    0.715638638,
+                    0.715638638
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -0.231431276,
+                    0.171184555,
+                    0.913
+                ],
+                "size": [
+                    0.5352965,
+                    0.346369117,
+                    0.535299
+                ]
+            },
+            "properties": [
+                "SURFACES",
+                "CAN_OPEN",
+                "CONTAINERS"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 36,
+            "category": "Furniture",
+            "class_name": "closet",
+            "prefab_name": "PRE_FUR_Closet_02_03_01",
+            "obj_transform": {
+                "position": [
+                    -1.281,
+                    0.0,
+                    0.879
+                ],
+                "rotation": [
+                    0.0,
+                    0.7071068,
+                    0.0,
+                    0.7071067
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.40299261,
+                    1.1825217,
+                    0.879
+                ],
+                "size": [
+                    1.49973178,
+                    2.36524463,
+                    0.6238674
+                ]
+            },
+            "properties": [
+                "CAN_OPEN",
+                "CONTAINERS"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 37,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_01",
+            "obj_transform": {
+                "position": [
+                    -1.2662313,
+                    1.797,
+                    0.880000651
+                ],
+                "rotation": [
+                    0.0,
+                    0.999953568,
+                    0.0,
+                    -0.009639949
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.26625073,
+                    1.90511858,
+                    0.878958941
+                ],
+                "size": [
+                    0.0240974426,
+                    0.241116285,
+                    0.469927073
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 38,
+            "category": "Furniture",
+            "class_name": "clothesshirt",
+            "prefab_name": "MOD_PRO_Shirt_02",
+            "obj_transform": {
+                "position": [
+                    -1.266,
+                    1.81,
+                    0.8919984
+                ],
+                "rotation": [
+                    0.0,
+                    0.999953568,
+                    0.0,
+                    -0.009639889
+                ],
+                "scale": [
+                    1.0,
+                    0.917863846,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.26608348,
+                    1.52669728,
+                    0.8919986
+                ],
+                "size": [
+                    0.05330244,
+                    0.737567246,
+                    0.5795156
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "CLOTHES",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 39,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_02",
+            "obj_transform": {
+                "position": [
+                    -1.86599994,
+                    1.797,
+                    0.8880001
+                ],
+                "rotation": [
+                    0.0,
+                    0.9998339,
+                    0.0,
+                    -0.01822719
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.86603713,
+                    1.90511858,
+                    0.886958838
+                ],
+                "size": [
+                    0.0321550369,
+                    0.241116285,
+                    0.46996063
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 40,
+            "category": "Furniture",
+            "class_name": "clothespants",
+            "prefab_name": "PRE_PRO_Pants_02",
+            "obj_transform": {
+                "position": [
+                    -1.86403775,
+                    1.798,
+                    0.886927843
+                ],
+                "rotation": [
+                    0.0,
+                    0.01822704,
+                    0.0,
+                    0.9998338
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.864382,
+                    1.50540423,
+                    0.8869406
+                ],
+                "size": [
+                    0.05334997,
+                    0.6125164,
+                    0.297051966
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "CLOTHES",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 41,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_03",
+            "obj_transform": {
+                "position": [
+                    -1.41157293,
+                    1.797,
+                    0.879740834
+                ],
+                "rotation": [
+                    0.0,
+                    0.9982739,
+                    0.0,
+                    0.05873093
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.41145,
+                    1.90511858,
+                    0.8787062
+                ],
+                "size": [
+                    0.07001996,
+                    0.241116285,
+                    0.46824795
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 42,
+            "category": "Furniture",
+            "class_name": "clothesshirt",
+            "prefab_name": "MOD_PRO_Shirt_01",
+            "obj_transform": {
+                "position": [
+                    -1.41000068,
+                    1.815,
+                    0.8920098
+                ],
+                "rotation": [
+                    0.0,
+                    0.9982739,
+                    0.0,
+                    0.05873093
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.41008341,
+                    1.50634575,
+                    0.8919986
+                ],
+                "size": [
+                    0.109731391,
+                    0.8035693,
+                    0.5797602
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "CLOTHES",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 43,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_04",
+            "obj_transform": {
+                "position": [
+                    -1.771,
+                    1.797,
+                    0.867000043
+                ],
+                "rotation": [
+                    0.0,
+                    0.9995194,
+                    0.0,
+                    0.0309999585
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.77093482,
+                    1.90511858,
+                    0.86596024
+                ],
+                "size": [
+                    0.0441243649,
+                    0.241116285,
+                    0.469753742
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 44,
+            "category": "Furniture",
+            "class_name": "clothespants",
+            "prefab_name": "PRE_PRO_Pants_01",
+            "obj_transform": {
+                "position": [
+                    -1.7729342,
+                    1.80500007,
+                    0.8658781
+                ],
+                "rotation": [
+                    0.0,
+                    0.999518633,
+                    0.0,
+                    0.0310265124
+                ],
+                "scale": [
+                    1.044787,
+                    1.04478717,
+                    0.8722422
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.7725749,
+                    1.49929976,
+                    0.8659003
+                ],
+                "size": [
+                    0.0604200363,
+                    0.6399491,
+                    0.260182142
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "CLOTHES",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 45,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_05",
+            "obj_transform": {
+                "position": [
+                    -2.043,
+                    1.797,
+                    0.8950001
+                ],
+                "rotation": [
+                    0.0,
+                    0.9998339,
+                    0.0,
+                    -0.01822719
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -2.043037,
+                    1.90511858,
+                    0.893958867
+                ],
+                "size": [
+                    0.0321550369,
+                    0.241116285,
+                    0.46996057
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 46,
+            "category": "Furniture",
+            "class_name": "clothespants",
+            "prefab_name": "PRE_PRO_Pants_02",
+            "obj_transform": {
+                "position": [
+                    -2.0410378,
+                    1.798,
+                    0.8939279
+                ],
+                "rotation": [
+                    0.0,
+                    0.01822704,
+                    0.0,
+                    0.9998338
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -2.04138184,
+                    1.50540423,
+                    0.893940568
+                ],
+                "size": [
+                    0.05334997,
+                    0.6125164,
+                    0.2970519
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "CLOTHES",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 47,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_06",
+            "obj_transform": {
+                "position": [
+                    -1.958,
+                    1.797,
+                    0.8920001
+                ],
+                "rotation": [
+                    0.0,
+                    0.9998339,
+                    0.0,
+                    -0.01822719
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.95803714,
+                    1.90511858,
+                    0.890958846
+                ],
+                "size": [
+                    0.0321550369,
+                    0.241116285,
+                    0.46996057
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 48,
+            "category": "Furniture",
+            "class_name": "clothespants",
+            "prefab_name": "PRE_PRO_Pants_02",
+            "obj_transform": {
+                "position": [
+                    -1.95603776,
+                    1.797,
+                    0.890927851
+                ],
+                "rotation": [
+                    0.0,
+                    0.01822704,
+                    0.0,
+                    0.9998338
+                ],
+                "scale": [
+                    1.0,
+                    0.804803848,
+                    0.5995096
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.956382,
+                    1.56151783,
+                    0.8909405
+                ],
+                "size": [
+                    0.04903364,
+                    0.492955685,
+                    0.178707361
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "CLOTHES",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 49,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_07",
+            "obj_transform": {
+                "position": [
+                    -1.68689013,
+                    1.797,
+                    0.8718106
+                ],
+                "rotation": [
+                    0.0,
+                    0.999634147,
+                    0.0,
+                    -0.0270500183
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.6869458,
+                    1.90511858,
+                    0.8707702
+                ],
+                "size": [
+                    0.0404250622,
+                    0.241116285,
+                    0.46985054
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 50,
+            "category": "Furniture",
+            "class_name": "clothespants",
+            "prefab_name": "PRE_PRO_Pants_01",
+            "obj_transform": {
+                "position": [
+                    -1.68894124,
+                    1.80800009,
+                    0.870920241
+                ],
+                "rotation": [
+                    0.0,
+                    0.999634862,
+                    0.0,
+                    -0.0270234346
+                ],
+                "scale": [
+                    1.12224972,
+                    1.1222496,
+                    0.9369119
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.68855512,
+                    1.47963452,
+                    0.8708992
+                ],
+                "size": [
+                    0.06270671,
+                    0.6873963,
+                    0.279219151
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "CLOTHES",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 51,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_08",
+            "obj_transform": {
+                "position": [
+                    -1.547087,
+                    1.797,
+                    0.8644392
+                ],
+                "rotation": [
+                    0.0,
+                    0.999616265,
+                    0.0,
+                    -0.0277006626
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.54714394,
+                    1.90511858,
+                    0.8633989
+                ],
+                "size": [
+                    0.0410347,
+                    0.241116285,
+                    0.469836533
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 52,
+            "category": "Furniture",
+            "class_name": "clothesshirt",
+            "prefab_name": "MOD_PRO_Shirt_01",
+            "obj_transform": {
+                "position": [
+                    -1.543427,
+                    1.82600009,
+                    0.8762546
+                ],
+                "rotation": [
+                    0.0,
+                    0.999616265,
+                    0.0,
+                    -0.0277006626
+                ],
+                "scale": [
+                    1.0,
+                    0.8636028,
+                    0.980948
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.54351044,
+                    1.55944538,
+                    0.876257837
+                ],
+                "size": [
+                    0.0735305548,
+                    0.6939647,
+                    0.569246054
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "CLOTHES",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 53,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_09",
+            "obj_transform": {
+                "position": [
+                    -0.9989339,
+                    1.797,
+                    0.874996662
+                ],
+                "rotation": [
+                    0.0,
+                    0.999143,
+                    0.0,
+                    -0.0413913429
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -0.999019444,
+                    1.90511858,
+                    0.873958349
+                ],
+                "size": [
+                    0.05384457,
+                    0.241116285,
+                    0.469359219
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 54,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_10",
+            "obj_transform": {
+                "position": [
+                    -0.942026,
+                    1.797,
+                    0.8700018
+                ],
+                "rotation": [
+                    0.0,
+                    0.999581456,
+                    0.0,
+                    -0.02893117
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -0.9420856,
+                    1.90511858,
+                    0.868961632
+                ],
+                "size": [
+                    0.0421872139,
+                    0.241116285,
+                    0.469808221
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 55,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_11",
+            "obj_transform": {
+                "position": [
+                    -0.8279354,
+                    1.797,
+                    0.8629942
+                ],
+                "rotation": [
+                    0.0,
+                    0.9981955,
+                    0.0,
+                    -0.0600491166
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -0.8280597,
+                    1.90511858,
+                    0.861959755
+                ],
+                "size": [
+                    0.0712471,
+                    0.241116285,
+                    0.468140244
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 56,
+            "category": "Furniture",
+            "class_name": "closetdrawer",
+            "prefab_name": "PRE_FUR_Closet_02_Drawer_01",
+            "obj_transform": {
+                "position": [
+                    -1.654,
+                    0.828,
+                    0.8744
+                ],
+                "rotation": [
+                    0.0,
+                    0.7071068,
+                    0.0,
+                    0.7071067
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.65400076,
+                    0.928222537,
+                    0.874399662
+                ],
+                "size": [
+                    0.9477488,
+                    0.200448319,
+                    0.5653747
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 57,
+            "category": "Furniture",
+            "class_name": "clothespile",
+            "prefab_name": "MOD_PRO_Clothes_pile_01",
+            "obj_transform": {
+                "position": [
+                    -1.433,
+                    0.840000033,
+                    0.885400057
+                ],
+                "rotation": [
+                    0.0,
+                    0.6872896,
+                    0.0,
+                    0.726383567
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.4330008,
+                    0.9212562,
+                    0.8854
+                ],
+                "size": [
+                    0.337138653,
+                    0.1625135,
+                    0.4531213
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "CAN_OPEN",
+                "CONTAINERS",
+                "MOVABLE"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 58,
+            "category": "Furniture",
+            "class_name": "clothespile",
+            "prefab_name": "MOD_PRO_Clothes_pile_02",
+            "obj_transform": {
+                "position": [
+                    -1.809,
+                    0.838,
+                    0.885400057
+                ],
+                "rotation": [
+                    0.0,
+                    0.722425,
+                    0.0,
+                    0.691449344
+                ],
+                "scale": [
+                    0.92,
+                    0.92,
+                    0.92
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.80900073,
+                    0.912755668,
+                    0.8854001
+                ],
+                "size": [
+                    0.3057258,
+                    0.14951241,
+                    0.413791776
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "CAN_OPEN",
+                "CONTAINERS",
+                "MOVABLE"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 59,
+            "category": "Furniture",
+            "class_name": "closetdrawer",
+            "prefab_name": "PRE_FUR_Closet_02_Drawer_02",
+            "obj_transform": {
+                "position": [
+                    -0.9074,
+                    0.5991,
+                    0.878999949
+                ],
+                "rotation": [
+                    0.0,
+                    0.7071068,
+                    0.0,
+                    0.7071067
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -0.9074009,
+                    0.6993225,
+                    0.8789996
+                ],
+                "size": [
+                    0.459288269,
+                    0.200446546,
+                    0.5653746
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 60,
+            "category": "Furniture",
+            "class_name": "clothespile",
+            "prefab_name": "MOD_PRO_Clothes_pile_06",
+            "obj_transform": {
+                "position": [
+                    -0.905000031,
+                    0.6095,
+                    0.8449999
+                ],
+                "rotation": [
+                    0.0,
+                    0.9983631,
+                    0.0,
+                    -0.05719307
+                ],
+                "scale": [
+                    0.828000247,
+                    0.828000069,
+                    0.828000069
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -0.905000031,
+                    0.6767801,
+                    0.8450007
+                ],
+                "size": [
+                    0.3886701,
+                    0.134561062,
+                    0.299147129
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "CAN_OPEN",
+                "CONTAINERS",
+                "MOVABLE"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 61,
+            "category": "Furniture",
+            "class_name": "closetdrawer",
+            "prefab_name": "PRE_FUR_Closet_02_Drawer_03",
+            "obj_transform": {
+                "position": [
+                    -0.907000065,
+                    0.37,
+                    0.878999949
+                ],
+                "rotation": [
+                    0.0,
+                    0.7071068,
+                    0.0,
+                    0.7071067
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -0.907000959,
+                    0.470222533,
+                    0.8789996
+                ],
+                "size": [
+                    0.459288269,
+                    0.200446546,
+                    0.5653746
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 62,
+            "category": "Furniture",
+            "class_name": "clothespile",
+            "prefab_name": "MOD_PRO_Clothes_pile_07",
+            "obj_transform": {
+                "position": [
+                    -0.905400038,
+                    0.381200016,
+                    0.8449999
+                ],
+                "rotation": [
+                    0.0,
+                    0.9986892,
+                    0.0,
+                    -0.0511860549
+                ],
+                "scale": [
+                    0.8280001,
+                    0.626598835,
+                    0.828
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -0.905400038,
+                    0.432115048,
+                    0.8450007
+                ],
+                "size": [
+                    0.38603586,
+                    0.101830721,
+                    0.295162559
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "CAN_OPEN",
+                "CONTAINERS",
+                "MOVABLE"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 63,
+            "category": "Furniture",
+            "class_name": "closetdrawer",
+            "prefab_name": "PRE_FUR_Closet_02_Drawer_04",
+            "obj_transform": {
+                "position": [
+                    -1.654,
+                    0.598,
+                    0.8740001
+                ],
+                "rotation": [
+                    0.0,
+                    0.7071068,
+                    0.0,
+                    0.7071067
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.65400076,
+                    0.6982225,
+                    0.8739997
+                ],
+                "size": [
+                    0.9477488,
+                    0.200448319,
+                    0.5653747
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 64,
+            "category": "Furniture",
+            "class_name": "clothespile",
+            "prefab_name": "MOD_PRO_Clothes_pile_04",
+            "obj_transform": {
+                "position": [
+                    -1.356,
+                    0.608,
+                    0.885
+                ],
+                "rotation": [
+                    0.0,
+                    0.704123855,
+                    0.0,
+                    0.710077167
+                ],
+                "scale": [
+                    0.7252129,
+                    0.7252129,
+                    0.7252129
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.35600054,
+                    0.666928,
+                    0.885
+                ],
+                "size": [
+                    0.230008364,
+                    0.11785686,
+                    0.318431139
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "CAN_OPEN",
+                "CONTAINERS",
+                "MOVABLE"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 65,
+            "category": "Furniture",
+            "class_name": "clothespile",
+            "prefab_name": "MOD_PRO_Clothes_pile_05",
+            "obj_transform": {
+                "position": [
+                    -1.63599992,
+                    0.608,
+                    0.881000042
+                ],
+                "rotation": [
+                    0.0,
+                    0.7224936,
+                    0.0,
+                    0.6913776
+                ],
+                "scale": [
+                    0.7252128,
+                    0.7252129,
+                    0.725212753
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.63600051,
+                    0.666928,
+                    0.881000042
+                ],
+                "size": [
+                    0.241056681,
+                    0.11785686,
+                    0.32622385
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "CAN_OPEN",
+                "CONTAINERS",
+                "MOVABLE"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 66,
+            "category": "Furniture",
+            "class_name": "clothespile",
+            "prefab_name": "MOD_PRO_Clothes_pile_06",
+            "obj_transform": {
+                "position": [
+                    -1.914,
+                    0.608,
+                    0.8930001
+                ],
+                "rotation": [
+                    0.0,
+                    0.679417551,
+                    0.0,
+                    0.733751833
+                ],
+                "scale": [
+                    0.7252129,
+                    0.7252129,
+                    0.725212753
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.91400063,
+                    0.666928,
+                    0.893000066
+                ],
+                "size": [
+                    0.25098443,
+                    0.11785686,
+                    0.3330506
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "CAN_OPEN",
+                "CONTAINERS",
+                "MOVABLE"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 67,
+            "category": "Furniture",
+            "class_name": "closetdrawer",
+            "prefab_name": "PRE_FUR_Closet_02_Drawer_05",
+            "obj_transform": {
+                "position": [
+                    -1.654,
+                    0.3673,
+                    0.8740001
+                ],
+                "rotation": [
+                    0.0,
+                    0.7071068,
+                    0.0,
+                    0.7071067
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.65400076,
+                    0.467522532,
+                    0.8739997
+                ],
+                "size": [
+                    0.9477488,
+                    0.200448319,
+                    0.5653747
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 68,
+            "category": "Furniture",
+            "class_name": "clothespile",
+            "prefab_name": "MOD_PRO_Clothes_pile_03",
+            "obj_transform": {
+                "position": [
+                    -1.908,
+                    0.3753,
+                    0.889000058
+                ],
+                "rotation": [
+                    0.0,
+                    0.722425,
+                    0.0,
+                    0.691449344
+                ],
+                "scale": [
+                    0.8280001,
+                    0.828000069,
+                    0.828
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.90800071,
+                    0.4425801,
+                    0.8890002
+                ],
+                "size": [
+                    0.27515316,
+                    0.134561181,
+                    0.372412741
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "CAN_OPEN",
+                "CONTAINERS",
+                "MOVABLE"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 69,
+            "category": "Furniture",
+            "class_name": "clothespile",
+            "prefab_name": "MOD_PRO_Clothes_pile_04",
+            "obj_transform": {
+                "position": [
+                    -1.642,
+                    0.3753,
+                    0.917000055
+                ],
+                "rotation": [
+                    0.0,
+                    0.697554052,
+                    0.0,
+                    0.7165322
+                ],
+                "scale": [
+                    0.828000247,
+                    0.828000069,
+                    0.828000069
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.64200068,
+                    0.4425801,
+                    0.917000055
+                ],
+                "size": [
+                    0.269179821,
+                    0.134561092,
+                    0.368227
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "CAN_OPEN",
+                "CONTAINERS",
+                "MOVABLE"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 70,
+            "category": "Furniture",
+            "class_name": "clothespile",
+            "prefab_name": "MOD_PRO_Clothes_pile_05",
+            "obj_transform": {
+                "position": [
+                    -1.363,
+                    0.3753,
+                    0.883
+                ],
+                "rotation": [
+                    0.0,
+                    0.7113233,
+                    0.0,
+                    0.702865064
+                ],
+                "scale": [
+                    0.828000247,
+                    0.828000069,
+                    0.828
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.36300087,
+                    0.4425801,
+                    0.883
+                ],
+                "size": [
+                    0.263879061,
+                    0.134561092,
+                    0.364470243
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "CAN_OPEN",
+                "CONTAINERS",
+                "MOVABLE"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 71,
+            "category": "Furniture",
+            "class_name": "closetdrawer",
+            "prefab_name": "PRE_FUR_Closet_02_Drawer_06",
+            "obj_transform": {
+                "position": [
+                    -0.907000065,
+                    0.1393,
+                    0.878999949
+                ],
+                "rotation": [
+                    0.0,
+                    0.7071068,
+                    0.0,
+                    0.7071067
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -0.907000959,
+                    0.239522517,
+                    0.8789996
+                ],
+                "size": [
+                    0.459288269,
+                    0.200446546,
+                    0.5653746
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 72,
+            "category": "Furniture",
+            "class_name": "clothespile",
+            "prefab_name": "MOD_PRO_Clothes_pile_08",
+            "obj_transform": {
+                "position": [
+                    -0.904999554,
+                    0.150532,
+                    0.8450002
+                ],
+                "rotation": [
+                    0.0,
+                    0.913674355,
+                    0.0,
+                    0.406447
+                ],
+                "scale": [
+                    0.7217808,
+                    0.546216,
+                    0.721780658
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -0.9050001,
+                    0.194915429,
+                    0.8450007
+                ],
+                "size": [
+                    0.37900424,
+                    0.08876744,
+                    0.385493875
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "CAN_OPEN",
+                "CONTAINERS",
+                "MOVABLE"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 73,
+            "category": "Furniture",
+            "class_name": "closetdrawer",
+            "prefab_name": "PRE_FUR_Closet_02_Drawer_07",
+            "obj_transform": {
+                "position": [
+                    -1.654,
+                    0.1386,
+                    0.8740001
+                ],
+                "rotation": [
+                    0.0,
+                    0.7071068,
+                    0.0,
+                    0.7071067
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.65400076,
+                    0.23882255,
+                    0.8739997
+                ],
+                "size": [
+                    0.9477488,
+                    0.200448319,
+                    0.5653747
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 74,
+            "category": "Furniture",
+            "class_name": "clothespile",
+            "prefab_name": "MOD_PRO_Clothes_pile_06",
+            "obj_transform": {
+                "position": [
+                    -1.335,
+                    0.1496,
+                    0.801000059
+                ],
+                "rotation": [
+                    0.0,
+                    0.69816643,
+                    0.0,
+                    0.7159355
+                ],
+                "scale": [
+                    0.6224207,
+                    0.6224206,
+                    0.622420549
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.33500051,
+                    0.200175524,
+                    0.801000059
+                ],
+                "size": [
+                    0.201890945,
+                    0.101151705,
+                    0.276480556
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "CAN_OPEN",
+                "CONTAINERS",
+                "MOVABLE"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 75,
+            "category": "Furniture",
+            "class_name": "clothespile",
+            "prefab_name": "MOD_PRO_Clothes_pile_07",
+            "obj_transform": {
+                "position": [
+                    -1.545,
+                    0.1496,
+                    0.804
+                ],
+                "rotation": [
+                    0.0,
+                    0.744521558,
+                    0.0,
+                    0.6675984
+                ],
+                "scale": [
+                    0.6224207,
+                    0.6224206,
+                    0.486493647
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.54500031,
+                    0.200175524,
+                    0.8040001
+                ],
+                "size": [
+                    0.181120872,
+                    0.101151705,
+                    0.286622643
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "CAN_OPEN",
+                "CONTAINERS",
+                "MOVABLE"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 76,
+            "category": "Furniture",
+            "class_name": "clothespile",
+            "prefab_name": "MOD_PRO_Clothes_pile_08",
+            "obj_transform": {
+                "position": [
+                    -1.758,
+                    0.1496,
+                    0.8490001
+                ],
+                "rotation": [
+                    0.0,
+                    0.6890636,
+                    0.0,
+                    0.724700868
+                ],
+                "scale": [
+                    0.6224207,
+                    0.6224206,
+                    0.622420549
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.75800049,
+                    0.200175524,
+                    0.8490001
+                ],
+                "size": [
+                    0.208565712,
+                    0.101151705,
+                    0.2811494
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "CAN_OPEN",
+                "CONTAINERS",
+                "MOVABLE"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 77,
+            "category": "Furniture",
+            "class_name": "clothespile",
+            "prefab_name": "MOD_PRO_Clothes_pile_09",
+            "obj_transform": {
+                "position": [
+                    -1.967,
+                    0.1498,
+                    0.810000062
+                ],
+                "rotation": [
+                    0.0,
+                    0.7113233,
+                    0.0,
+                    0.702865064
+                ],
+                "scale": [
+                    0.6224207,
+                    0.548164845,
+                    0.622420549
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.96700048,
+                    0.194341779,
+                    0.810000062
+                ],
+                "size": [
+                    0.198362,
+                    0.08908415,
+                    0.273978
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "CAN_OPEN",
+                "CONTAINERS",
+                "MOVABLE"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 79,
+            "category": "Lamps",
+            "class_name": "ceilinglamp",
+            "prefab_name": "PRE_LAM_Ceiling_lamp_02_07",
+            "obj_transform": {
+                "position": [
+                    0.18,
+                    0.0,
+                    -1.3
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.18,
+                    2.22767544,
+                    -1.3
+                ],
+                "size": [
+                    0.5316593,
+                    0.5451052,
+                    0.531659365
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 80,
+            "category": "Lamps",
+            "class_name": "walllamp",
+            "prefab_name": "PRE_LAM_Wall_lamp_01_01",
+            "obj_transform": {
+                "position": [
+                    -2.447,
+                    1.681,
+                    -3.038
+                ],
+                "rotation": [
+                    0.707106,
+                    0.0,
+                    0.0,
+                    0.7071076
+                ],
+                "scale": [
+                    0.5944366,
+                    0.5944366,
+                    0.5944366
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -2.39606786,
+                    1.68100441,
+                    -2.2949543
+                ],
+                "size": [
+                    0.10186442,
+                    0.130681321,
+                    0.5126693
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 81,
+            "category": "Decor",
+            "class_name": "wallpictureframe",
+            "prefab_name": "PRE_DEC_Painting_12",
+            "obj_transform": {
+                "position": [
+                    1.579,
+                    1.215,
+                    -3.657
+                ],
+                "rotation": [
+                    -0.09817766,
+                    -0.7002571,
+                    0.0981771,
+                    0.7002588
+                ],
+                "scale": [
+                    0.251184881,
+                    0.251184881,
+                    0.251184881
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    1.57900035,
+                    1.21644092,
+                    -3.65196228
+                ],
+                "size": [
+                    0.240040079,
+                    0.306458771,
+                    0.09690706
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "HAS_PAPER",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 82,
+            "category": "Decor",
+            "class_name": "orchid",
+            "prefab_name": "PRE_DEC_Orchid_02",
+            "obj_transform": {
+                "position": [
+                    -0.219,
+                    0.342,
+                    0.905
+                ],
+                "rotation": [
+                    0.0,
+                    -0.9379334,
+                    0.0,
+                    -0.346815556
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -0.219000459,
+                    0.438992083,
+                    0.9050005
+                ],
+                "size": [
+                    0.3417207,
+                    0.193984792,
+                    0.3417207
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 83,
+            "category": "Decor",
+            "class_name": "rug",
+            "prefab_name": "PRE_DEC_Rug_01_14",
+            "obj_transform": {
+                "position": [
+                    1.45780861,
+                    0.0,
+                    -2.71302652
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    1.45780861,
+                    0.0069701,
+                    -2.71302652
+                ],
+                "size": [
+                    1.69976461,
+                    0.0139463525,
+                    1.69976473
+                ]
+            },
+            "properties": [
+                "SURFACES",
+                "GRABBABLE",
+                "SITTABLE",
+                "LIEABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 84,
+            "category": "Decor",
+            "class_name": "rug",
+            "prefab_name": "PRE_DEC_Rug_01_13",
+            "obj_transform": {
+                "position": [
+                    -0.32,
+                    0.0,
+                    -0.32
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -0.32,
+                    0.0069701,
+                    -0.320000023
+                ],
+                "size": [
+                    1.69976461,
+                    0.0139463525,
+                    1.69976473
+                ]
+            },
+            "properties": [
+                "SURFACES",
+                "GRABBABLE",
+                "SITTABLE",
+                "LIEABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 85,
+            "category": "Decor",
+            "class_name": "pillow",
+            "prefab_name": "PRE_DEC_Pillow_01_02",
+            "obj_transform": {
+                "position": [
+                    -1.926,
+                    0.742,
+                    -1.81
+                ],
+                "rotation": [
+                    -0.03718953,
+                    -0.0576055162,
+                    -0.408764482,
+                    0.9100606
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.83538389,
+                    0.792398334,
+                    -1.8123337
+                ],
+                "size": [
+                    0.6456821,
+                    0.713207364,
+                    0.8679671
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 86,
+            "category": "Decor",
+            "class_name": "pillow",
+            "prefab_name": "PRE_DEC_Pillow_01_01",
+            "obj_transform": {
+                "position": [
+                    -1.672,
+                    0.583,
+                    -2.777
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -1.64986324,
+                    0.684271753,
+                    -2.780273
+                ],
+                "size": [
+                    0.6613115,
+                    0.202543557,
+                    0.7817019
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 87,
+            "category": "Decor",
+            "class_name": "wallpictureframe",
+            "prefab_name": "PRE_DEC_Painting_06",
+            "obj_transform": {
+                "position": [
+                    2.448,
+                    1.456,
+                    0.657
+                ],
+                "rotation": [
+                    0.0,
+                    1.0,
+                    0.0,
+                    -1.62920685e-07
+                ],
+                "scale": [
+                    0.5755069,
+                    0.5755069,
+                    0.5755069
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    2.43599486,
+                    1.45600009,
+                    0.6570008
+                ],
+                "size": [
+                    0.0240113139,
+                    0.7234373,
+                    0.549971938
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "HAS_PAPER",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 88,
+            "category": "Props",
+            "class_name": "book",
+            "prefab_name": "PRE_PRO_Book_08",
+            "obj_transform": {
+                "position": [
+                    -0.0657,
+                    1.7502,
+                    -3.5686
+                ],
+                "rotation": [
+                    0.0,
+                    -0.6282664,
+                    0.0,
+                    0.7779983
+                ],
+                "scale": [
+                    0.7551471,
+                    0.755147159,
+                    0.7551471
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -0.06476098,
+                    1.767113,
+                    -3.56423616
+                ],
+                "size": [
+                    0.270502985,
+                    0.03431015,
+                    0.233598322
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "CUTTABLE",
+                "CAN_OPEN",
+                "READABLE",
+                "HAS_PAPER",
+                "MOVABLE"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 89,
+            "category": "Props",
+            "class_name": "book",
+            "prefab_name": "PRE_PRO_Book_07",
+            "obj_transform": {
+                "position": [
+                    0.248081982,
+                    1.74832118,
+                    -3.52946949
+                ],
+                "rotation": [
+                    0.0,
+                    -0.7818348,
+                    0.0,
+                    0.623485744
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.247090876,
+                    1.76518273,
+                    -3.52513123
+                ],
+                "size": [
+                    0.271301717,
+                    0.0342060961,
+                    0.235210449
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "CUTTABLE",
+                "CAN_OPEN",
+                "READABLE",
+                "HAS_PAPER",
+                "MOVABLE"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 90,
+            "category": "Props",
+            "class_name": "hairproduct",
+            "prefab_name": "PRE_PRO_Conditioner_01",
+            "obj_transform": {
+                "position": [
+                    1.35652685,
+                    1.74807978,
+                    -3.57923436
+                ],
+                "rotation": [
+                    0.0,
+                    -0.8049141,
+                    0.0,
+                    0.5933913
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    1.35652709,
+                    1.83859754,
+                    -3.57923436
+                ],
+                "size": [
+                    0.09248764,
+                    0.181035683,
+                    0.092487365
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "POURABLE",
+                "CAN_OPEN",
+                "MOVABLE"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 91,
+            "category": "Props",
+            "class_name": "hairproduct",
+            "prefab_name": "PRE_PRO_Shampoo_01",
+            "obj_transform": {
+                "position": [
+                    1.47425747,
+                    1.74807978,
+                    -3.57672739
+                ],
+                "rotation": [
+                    0.0,
+                    -0.593137264,
+                    0.0,
+                    0.8051014
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    1.47425771,
+                    1.83859754,
+                    -3.57672739
+                ],
+                "size": [
+                    0.0925184041,
+                    0.181035683,
+                    0.09251812
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "POURABLE",
+                "CAN_OPEN",
+                "MOVABLE"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 92,
+            "category": "Props",
+            "class_name": "facecream",
+            "prefab_name": "PRE_PRO_Face_cream_01",
+            "obj_transform": {
+                "position": [
+                    1.64550531,
+                    1.74807978,
+                    -3.515252
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    1.64550531,
+                    1.76384354,
+                    -3.515252
+                ],
+                "size": [
+                    0.0645537749,
+                    0.03152771,
+                    0.06455387
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "POURABLE",
+                "MOVABLE",
+                "CREAM"
+            ],
+            "states": []
+        },
+        {
+            "id": 93,
+            "category": "Props",
+            "class_name": "deodorant",
+            "prefab_name": "PRE_PRO_Deodorant_01",
+            "obj_transform": {
+                "position": [
+                    1.7562201,
+                    1.74807966,
+                    -3.54700375
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    1.7562201,
+                    1.82128346,
+                    -3.547004
+                ],
+                "size": [
+                    0.04111485,
+                    0.1464077,
+                    0.04111537
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 94,
+            "category": "Props",
+            "class_name": "photoframe",
+            "prefab_name": "PRE_PRO_Photo_frame_01",
+            "obj_transform": {
+                "position": [
+                    -0.215974629,
+                    1.05907965,
+                    -3.55164242
+                ],
+                "rotation": [
+                    0.0,
+                    -0.551253,
+                    0.0,
+                    0.8343381
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -0.215306282,
+                    1.16534293,
+                    -3.55007648
+                ],
+                "size": [
+                    0.174875841,
+                    0.212527975,
+                    0.1326534
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 95,
+            "category": "Props",
+            "class_name": "wineglass",
+            "prefab_name": "PRE_PRO_Wine_glass_01",
+            "obj_transform": {
+                "position": [
+                    -0.16399999,
+                    0.347,
+                    -1.8490001
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -0.16399999,
+                    0.442104936,
+                    -1.84900057
+                ],
+                "size": [
+                    0.08954637,
+                    0.190210134,
+                    0.089546375
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "RECIPIENT",
+                "POURABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 100,
+            "category": "Props",
+            "class_name": "plate",
+            "prefab_name": "PRE_PRO_Plate_02",
+            "obj_transform": {
+                "position": [
+                    1.243,
+                    1.059,
+                    -3.56
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "scale": [
+                    0.722720742,
+                    0.722720742,
+                    0.722720742
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    1.243,
+                    1.06594634,
+                    -3.56
+                ],
+                "size": [
+                    0.209892377,
+                    0.0138928788,
+                    0.209892377
+                ]
+            },
+            "properties": [
+                "SURFACES",
+                "GRABBABLE",
+                "RECIPIENT",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 101,
+            "category": "Props",
+            "class_name": "cellphone",
+            "prefab_name": "Cellphone_7",
+            "obj_transform": {
+                "position": [
+                    0.205117181,
+                    1.0645,
+                    -3.54440546
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.205117181,
+                    1.0645,
+                    -3.54440546
+                ],
+                "size": [
+                    0.06999999,
+                    0.00999999,
+                    0.130000114
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HAS_SWITCH",
+                "HAS_PLUG",
+                "MOVABLE"
+            ],
+            "states": [
+                "OFF"
+            ]
+        },
+        {
+            "id": 102,
+            "category": "Electronics",
+            "class_name": "powersocket",
+            "prefab_name": "PRE_ELE_Power_socket_02",
+            "obj_transform": {
+                "position": [
+                    2.45,
+                    0.1412,
+                    -3.016
+                ],
+                "rotation": [
+                    0.0,
+                    1.0,
+                    0.0,
+                    2.324581e-06
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    2.441968,
+                    0.1412,
+                    -3.01600027
+                ],
+                "size": [
+                    0.0160645023,
+                    0.154280722,
+                    0.0908235
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 103,
+            "category": "Electronics",
+            "class_name": "lightswitch",
+            "prefab_name": "PRE_ELE_Light_switch_02",
+            "obj_transform": {
+                "position": [
+                    2.45,
+                    1.306049,
+                    -3.066
+                ],
+                "rotation": [
+                    0.0,
+                    1.0,
+                    0.0,
+                    2.324581e-06
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    2.447448,
+                    1.306049,
+                    -3.066
+                ],
+                "size": [
+                    0.00510599138,
+                    0.0936371461,
+                    0.0686778948
+                ]
+            },
+            "properties": [
+                "HAS_SWITCH",
+                "HAS_PLUG"
+            ],
+            "states": [
+                "ON"
+            ]
+        },
+        {
+            "id": 109,
+            "category": "Electronics",
+            "class_name": "computer",
+            "prefab_name": "PRE_ELE_CPU_case_01",
+            "obj_transform": {
+                "position": [
+                    1.767,
+                    0.0,
+                    -1.407
+                ],
+                "rotation": [
+                    0.0,
+                    1.0,
+                    0.0,
+                    2.324581e-06
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    1.761998,
+                    0.367990226,
+                    -1.40699875
+                ],
+                "size": [
+                    0.745985866,
+                    0.7359814,
+                    0.258685619
+                ]
+            },
+            "properties": [
+                "HAS_SWITCH",
+                "LOOKABLE"
+            ],
+            "states": [
+                "OFF"
+            ]
+        },
+        {
+            "id": 110,
+            "category": "Electronics",
+            "class_name": "remotecontrol",
+            "prefab_name": "Remote_control_1",
+            "obj_transform": {
+                "position": [
+                    -0.0300000086,
+                    0.3445,
+                    -2.887
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    -0.0297838822,
+                    0.362168759,
+                    -2.88696241
+                ],
+                "size": [
+                    0.202,
+                    0.035,
+                    0.082
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HAS_SWITCH",
+                "MOVABLE"
+            ],
+            "states": [
+                "OFF"
+            ]
+        },
+        {
+            "id": 111,
+            "category": "Rooms",
+            "class_name": "kitchen",
+            "prefab_name": "PRE_ROO_Kitchen_04",
+            "obj_transform": {
+                "position": [
+                    7.5,
+                    0.0,
+                    0.022
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    5.0,
+                    1.25,
+                    -2.478
+                ],
+                "size": [
+                    5.5,
+                    3.0,
+                    8.0
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 214,
+            "category": "Rooms",
+            "class_name": "bedroom",
+            "prefab_name": "PRE_ROO_Bedroom_04",
+            "obj_transform": {
+                "position": [
+                    1.2935,
+                    0.0,
+                    -11.228
+                ],
+                "rotation": [
+                    0.0,
+                    0.7071068,
+                    0.0,
+                    0.7071067
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    2.5435,
+                    1.25,
+                    -8.728001
+                ],
+                "size": [
+                    5.5,
+                    3.0,
+                    5.5
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 256,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_02",
+            "obj_transform": {
+                "position": [
+                    4.6264987,
+                    1.797,
+                    -6.84100056
+                ],
+                "rotation": [
+                    0.0,
+                    0.6941016,
+                    0.0,
+                    -0.7198771
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    4.625458,
+                    1.90511858,
+                    -6.84096336
+                ],
+                "size": [
+                    0.4699602,
+                    0.241116285,
+                    0.0321540833
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 257,
+            "category": "Furniture",
+            "class_name": "clothespants",
+            "prefab_name": "PRE_PRO_Pants_02",
+            "obj_transform": {
+                "position": [
+                    4.62542629,
+                    1.798,
+                    -6.84296274
+                ],
+                "rotation": [
+                    0.0,
+                    0.719877,
+                    0.0,
+                    0.6941017
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    4.625439,
+                    1.50540423,
+                    -6.842619
+                ],
+                "size": [
+                    0.29705143,
+                    0.6125164,
+                    0.0533494949
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "CLOTHES",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 258,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_03",
+            "obj_transform": {
+                "position": [
+                    4.62950039,
+                    1.797,
+                    -7.71500063
+                ],
+                "rotation": [
+                    0.0,
+                    0.747416,
+                    0.0,
+                    -0.664356351
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    4.628466,
+                    1.90511858,
+                    -7.715123
+                ],
+                "size": [
+                    0.4682474,
+                    0.241116285,
+                    0.0700206757
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 259,
+            "category": "Furniture",
+            "class_name": "clothesshirt",
+            "prefab_name": "MOD_PRO_Shirt_01",
+            "obj_transform": {
+                "position": [
+                    4.64176941,
+                    1.815,
+                    -7.71657228
+                ],
+                "rotation": [
+                    0.0,
+                    0.747416,
+                    0.0,
+                    -0.664356351
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    4.641758,
+                    1.50634575,
+                    -7.71649
+                ],
+                "size": [
+                    0.5797601,
+                    0.8035693,
+                    0.109732643
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "CLOTHES",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 260,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_07",
+            "obj_transform": {
+                "position": [
+                    4.6103096,
+                    1.797,
+                    -7.02011061
+                ],
+                "rotation": [
+                    0.0,
+                    0.6877216,
+                    0.0,
+                    -0.72597456
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    4.609269,
+                    1.90511858,
+                    -7.020055
+                ],
+                "size": [
+                    0.46985054,
+                    0.241116285,
+                    0.0404243469
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 261,
+            "category": "Furniture",
+            "class_name": "clothespants",
+            "prefab_name": "PRE_PRO_Pants_01",
+            "obj_transform": {
+                "position": [
+                    4.60941935,
+                    1.80800009,
+                    -7.01805973
+                ],
+                "rotation": [
+                    0.0,
+                    0.687741,
+                    0.0,
+                    -0.725956261
+                ],
+                "scale": [
+                    1.12224972,
+                    1.1222496,
+                    0.9369119
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    4.60939837,
+                    1.47963452,
+                    -7.018446
+                ],
+                "size": [
+                    0.279218674,
+                    0.6873963,
+                    0.06270599
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "CLOTHES",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 262,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_08",
+            "obj_transform": {
+                "position": [
+                    4.60293865,
+                    1.797,
+                    -7.159913
+                ],
+                "rotation": [
+                    0.0,
+                    0.687248945,
+                    0.0,
+                    -0.7264221
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    4.601898,
+                    1.90511858,
+                    -7.159857
+                ],
+                "size": [
+                    0.469836235,
+                    0.241116285,
+                    0.0410337448
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 263,
+            "category": "Furniture",
+            "class_name": "clothesshirt",
+            "prefab_name": "MOD_PRO_Shirt_01",
+            "obj_transform": {
+                "position": [
+                    4.61475372,
+                    1.82600009,
+                    -7.16357374
+                ],
+                "rotation": [
+                    0.0,
+                    0.687248945,
+                    0.0,
+                    -0.7264221
+                ],
+                "scale": [
+                    1.0,
+                    0.8636028,
+                    0.980948
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    4.61475754,
+                    1.55944538,
+                    -7.1634903
+                ],
+                "size": [
+                    0.569245934,
+                    0.6939647,
+                    0.07352933
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "CLOTHES",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 264,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_11",
+            "obj_transform": {
+                "position": [
+                    4.60149527,
+                    1.797,
+                    -7.87906551
+                ],
+                "rotation": [
+                    0.0,
+                    0.6633705,
+                    0.0,
+                    -0.7482912
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    4.600461,
+                    1.90511858,
+                    -7.87894058
+                ],
+                "size": [
+                    0.4681406,
+                    0.241116285,
+                    0.07124615
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 265,
+            "category": "Furniture",
+            "class_name": "closetdrawer",
+            "prefab_name": "PRE_FUR_Closet_02_Drawer_04",
+            "obj_transform": {
+                "position": [
+                    4.612499,
+                    0.598,
+                    -7.05300045
+                ],
+                "rotation": [
+                    0.0,
+                    1.0,
+                    0.0,
+                    1.07288361e-06
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    4.61249876,
+                    0.6982225,
+                    -7.053
+                ],
+                "size": [
+                    0.5653765,
+                    0.200448319,
+                    0.9477499
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 266,
+            "category": "Furniture",
+            "class_name": "clothespile",
+            "prefab_name": "MOD_PRO_Clothes_pile_04",
+            "obj_transform": {
+                "position": [
+                    4.6235,
+                    0.608,
+                    -7.351
+                ],
+                "rotation": [
+                    0.0,
+                    0.9999912,
+                    0.0,
+                    0.00421074033
+                ],
+                "scale": [
+                    0.7252129,
+                    0.7252129,
+                    0.7252129
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    4.6235,
+                    0.666928,
+                    -7.351
+                ],
+                "size": [
+                    0.318431854,
+                    0.11785686,
+                    0.230009079
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "CAN_OPEN",
+                "CONTAINERS",
+                "MOVABLE"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 267,
+            "category": "Furniture",
+            "class_name": "clothespile",
+            "prefab_name": "MOD_PRO_Clothes_pile_05",
+            "obj_transform": {
+                "position": [
+                    4.619499,
+                    0.608,
+                    -7.071
+                ],
+                "rotation": [
+                    0.0,
+                    0.9997579,
+                    0.0,
+                    -0.0220012069
+                ],
+                "scale": [
+                    0.7252128,
+                    0.7252129,
+                    0.725212753
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    4.619499,
+                    0.666928,
+                    -7.071
+                ],
+                "size": [
+                    0.326223373,
+                    0.11785686,
+                    0.241055489
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "CAN_OPEN",
+                "CONTAINERS",
+                "MOVABLE"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 268,
+            "category": "Furniture",
+            "class_name": "clothespile",
+            "prefab_name": "MOD_PRO_Clothes_pile_06",
+            "obj_transform": {
+                "position": [
+                    4.631499,
+                    0.608,
+                    -6.793001
+                ],
+                "rotation": [
+                    0.0,
+                    0.9992616,
+                    0.0,
+                    0.0384212434
+                ],
+                "scale": [
+                    0.7252129,
+                    0.7252129,
+                    0.725212753
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    4.631499,
+                    0.666928,
+                    -6.793
+                ],
+                "size": [
+                    0.333050728,
+                    0.11785686,
+                    0.250985146
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "CAN_OPEN",
+                "CONTAINERS",
+                "MOVABLE"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 269,
+            "category": "Furniture",
+            "class_name": "closetdrawer",
+            "prefab_name": "PRE_FUR_Closet_02_Drawer_05",
+            "obj_transform": {
+                "position": [
+                    4.612499,
+                    0.3673,
+                    -7.05300045
+                ],
+                "rotation": [
+                    0.0,
+                    1.0,
+                    0.0,
+                    1.07288361e-06
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    4.61249876,
+                    0.467522532,
+                    -7.053
+                ],
+                "size": [
+                    0.5653765,
+                    0.200448319,
+                    0.9477499
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 270,
+            "category": "Furniture",
+            "class_name": "clothespile",
+            "prefab_name": "MOD_PRO_Clothes_pile_03",
+            "obj_transform": {
+                "position": [
+                    4.62749863,
+                    0.3753,
+                    -6.79900074
+                ],
+                "rotation": [
+                    0.0,
+                    0.99976027,
+                    0.0,
+                    -0.0219019651
+                ],
+                "scale": [
+                    0.8280001,
+                    0.828000069,
+                    0.828
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    4.62749863,
+                    0.4425801,
+                    -6.799
+                ],
+                "size": [
+                    0.372412682,
+                    0.134561151,
+                    0.2751522
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "CAN_OPEN",
+                "CONTAINERS",
+                "MOVABLE"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 271,
+            "category": "Furniture",
+            "class_name": "clothespile",
+            "prefab_name": "MOD_PRO_Clothes_pile_04",
+            "obj_transform": {
+                "position": [
+                    4.65549946,
+                    0.3753,
+                    -7.06500053
+                ],
+                "rotation": [
+                    0.0,
+                    0.99991,
+                    0.0,
+                    0.013420701
+                ],
+                "scale": [
+                    0.828000247,
+                    0.828000069,
+                    0.828000069
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    4.65549946,
+                    0.4425801,
+                    -7.06499958
+                ],
+                "size": [
+                    0.368227959,
+                    0.134561181,
+                    0.2691803
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "CAN_OPEN",
+                "CONTAINERS",
+                "MOVABLE"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 276,
+            "category": "Rooms",
+            "class_name": "bathroom",
+            "prefab_name": "PRE_ROO_Bathroom_04",
+            "obj_transform": {
+                "position": [
+                    1.206,
+                    0.0,
+                    6.25
+                ],
+                "rotation": [
+                    0.0,
+                    -0.7071068,
+                    0.0,
+                    0.7071067
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    2.456,
+                    1.25,
+                    3.75000048
+                ],
+                "size": [
+                    5.5,
+                    3.0,
+                    5.5
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 303,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_01",
+            "obj_transform": {
+                "position": [
+                    0.331999958,
+                    1.797,
+                    2.197771
+                ],
+                "rotation": [
+                    0.0,
+                    0.713890254,
+                    0.0,
+                    0.7002575
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.333041668,
+                    1.90511858,
+                    2.19775152
+                ],
+                "size": [
+                    0.469926834,
+                    0.241116285,
+                    0.0240974426
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 304,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_02",
+            "obj_transform": {
+                "position": [
+                    0.359000862,
+                    1.797,
+                    2.62200117
+                ],
+                "rotation": [
+                    0.0,
+                    0.719877839,
+                    0.0,
+                    0.694100857
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.360042036,
+                    1.90511858,
+                    2.621964
+                ],
+                "size": [
+                    0.46996057,
+                    0.241116285,
+                    0.0321550369
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 305,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_03",
+            "obj_transform": {
+                "position": [
+                    0.3320009,
+                    1.797,
+                    2.12900257
+                ],
+                "rotation": [
+                    0.0,
+                    0.6643571,
+                    0.0,
+                    0.747415364
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.333035529,
+                    1.90511858,
+                    2.1291256
+                ],
+                "size": [
+                    0.4682479,
+                    0.241116285,
+                    0.0700202
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 306,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_04",
+            "obj_transform": {
+                "position": [
+                    0.3350007,
+                    1.797,
+                    1.93900251
+                ],
+                "rotation": [
+                    0.0,
+                    0.68484664,
+                    0.0,
+                    0.7286873
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.336040556,
+                    1.90511858,
+                    1.93906784
+                ],
+                "size": [
+                    0.469753861,
+                    0.241116285,
+                    0.0441243649
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 307,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_05",
+            "obj_transform": {
+                "position": [
+                    0.325000465,
+                    1.797,
+                    1.6300025
+                ],
+                "rotation": [
+                    0.0,
+                    0.6044403,
+                    0.0,
+                    0.796650469
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.326003671,
+                    1.90511858,
+                    1.63028383
+                ],
+                "size": [
+                    0.456421852,
+                    0.241116285,
+                    0.140987158
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 308,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_06",
+            "obj_transform": {
+                "position": [
+                    0.332000434,
+                    1.797,
+                    1.84500265
+                ],
+                "rotation": [
+                    0.0,
+                    0.7568127,
+                    0.0,
+                    0.6536317
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.333031356,
+                    1.90511858,
+                    1.844852
+                ],
+                "size": [
+                    0.466912746,
+                    0.241116285,
+                    0.08324361
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 309,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_07",
+            "obj_transform": {
+                "position": [
+                    0.345000446,
+                    1.797,
+                    2.0050025
+                ],
+                "rotation": [
+                    0.0,
+                    0.7259753,
+                    0.0,
+                    0.6877209
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.346040845,
+                    1.90511858,
+                    2.00494671
+                ],
+                "size": [
+                    0.46985054,
+                    0.241116285,
+                    0.040424943
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 310,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_08",
+            "obj_transform": {
+                "position": [
+                    0.3480007,
+                    1.797,
+                    2.05700254
+                ],
+                "rotation": [
+                    0.0,
+                    0.7264227,
+                    0.0,
+                    0.6872482
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.349041045,
+                    1.90511858,
+                    2.05694485
+                ],
+                "size": [
+                    0.469836473,
+                    0.241116285,
+                    0.0410347
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 311,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_09",
+            "obj_transform": {
+                "position": [
+                    0.3370039,
+                    1.797,
+                    2.46506739
+                ],
+                "rotation": [
+                    0.0,
+                    0.6910804,
+                    0.0,
+                    0.7227779
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.3380447,
+                    1.90511858,
+                    2.46511483
+                ],
+                "size": [
+                    0.469926447,
+                    0.241116285,
+                    0.03608036
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 312,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_10",
+            "obj_transform": {
+                "position": [
+                    0.341998756,
+                    1.797,
+                    2.521975
+                ],
+                "rotation": [
+                    0.0,
+                    0.7272682,
+                    0.0,
+                    0.686353445
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.343038917,
+                    1.90511858,
+                    2.52191544
+                ],
+                "size": [
+                    0.469808131,
+                    0.241116285,
+                    0.0421872139
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 313,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_11",
+            "obj_transform": {
+                "position": [
+                    0.349000633,
+                    1.797,
+                    2.68800068
+                ],
+                "rotation": [
+                    0.0,
+                    0.74829185,
+                    0.0,
+                    0.663369656
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.350035071,
+                    1.90511858,
+                    2.68787622
+                ],
+                "size": [
+                    0.468140125,
+                    0.241116285,
+                    0.0712471
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 314,
+            "category": "Furniture",
+            "class_name": "closetdrawer",
+            "prefab_name": "PRE_FUR_Closet_02_Drawer_01",
+            "obj_transform": {
+                "position": [
+                    0.3376004,
+                    0.828,
+                    1.81000042
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.337600827,
+                    0.928222537,
+                    1.8099997
+                ],
+                "size": [
+                    0.565374553,
+                    0.200448319,
+                    0.947748661
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 315,
+            "category": "Furniture",
+            "class_name": "closetdrawer",
+            "prefab_name": "PRE_FUR_Closet_02_Drawer_05",
+            "obj_transform": {
+                "position": [
+                    0.338000476,
+                    0.3673,
+                    1.81000042
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.338000834,
+                    0.467522532,
+                    1.8099997
+                ],
+                "size": [
+                    0.565374553,
+                    0.200448319,
+                    0.947748661
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 316,
+            "category": "Furniture",
+            "class_name": "closetdrawer",
+            "prefab_name": "PRE_FUR_Closet_02_Drawer_07",
+            "obj_transform": {
+                "position": [
+                    0.338000476,
+                    0.1386,
+                    1.81000042
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.338000834,
+                    0.23882255,
+                    1.8099997
+                ],
+                "size": [
+                    0.565374553,
+                    0.200448319,
+                    0.947748661
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 318,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_01",
+            "obj_transform": {
+                "position": [
+                    0.3319996,
+                    1.797,
+                    3.69776869
+                ],
+                "rotation": [
+                    0.0,
+                    0.7138903,
+                    0.0,
+                    0.70025754
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.3330413,
+                    1.90511858,
+                    3.69774938
+                ],
+                "size": [
+                    0.469926953,
+                    0.241116285,
+                    0.0240974426
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 319,
+            "category": "Furniture",
+            "class_name": "clothesshirt",
+            "prefab_name": "MOD_PRO_Shirt_02",
+            "obj_transform": {
+                "position": [
+                    0.320001841,
+                    1.81,
+                    3.69800043
+                ],
+                "rotation": [
+                    0.0,
+                    0.7138903,
+                    0.0,
+                    0.70025754
+                ],
+                "scale": [
+                    1.0,
+                    0.917863846,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.320001721,
+                    1.52669728,
+                    3.697917
+                ],
+                "size": [
+                    0.5795156,
+                    0.737567246,
+                    0.0533023
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "CLOTHES",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 320,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_02",
+            "obj_transform": {
+                "position": [
+                    0.324000418,
+                    1.797,
+                    3.09800029
+                ],
+                "rotation": [
+                    0.0,
+                    0.7198778,
+                    0.0,
+                    0.6941008
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.325041652,
+                    1.90511858,
+                    3.09796286
+                ],
+                "size": [
+                    0.469960451,
+                    0.241116285,
+                    0.0321550369
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 321,
+            "category": "Furniture",
+            "class_name": "clothespants",
+            "prefab_name": "PRE_PRO_Pants_02",
+            "obj_transform": {
+                "position": [
+                    0.325072646,
+                    1.798,
+                    3.09996247
+                ],
+                "rotation": [
+                    0.0,
+                    -0.694100857,
+                    0.0,
+                    0.7198777
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.32505995,
+                    1.50540423,
+                    3.0996182
+                ],
+                "size": [
+                    0.2970518,
+                    0.6125164,
+                    0.05334997
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "CLOTHES",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 322,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_04",
+            "obj_transform": {
+                "position": [
+                    0.345000446,
+                    1.797,
+                    3.19300032
+                ],
+                "rotation": [
+                    0.0,
+                    0.68484664,
+                    0.0,
+                    0.7286873
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.346040249,
+                    1.90511858,
+                    3.19306564
+                ],
+                "size": [
+                    0.469753861,
+                    0.241116285,
+                    0.0441246033
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 323,
+            "category": "Furniture",
+            "class_name": "clothespants",
+            "prefab_name": "PRE_PRO_Pants_01",
+            "obj_transform": {
+                "position": [
+                    0.346122444,
+                    1.80500007,
+                    3.19106579
+                ],
+                "rotation": [
+                    0.0,
+                    0.684827268,
+                    0.0,
+                    0.728705466
+                ],
+                "scale": [
+                    1.044787,
+                    1.04478717,
+                    0.8722422
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.346100271,
+                    1.49929976,
+                    3.19142532
+                ],
+                "size": [
+                    0.260182261,
+                    0.6399491,
+                    0.0604200363
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "CLOTHES",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 324,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_05",
+            "obj_transform": {
+                "position": [
+                    0.3170004,
+                    1.797,
+                    2.92100024
+                ],
+                "rotation": [
+                    0.0,
+                    0.7198778,
+                    0.0,
+                    0.6941008
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.318041563,
+                    1.90511858,
+                    2.920963
+                ],
+                "size": [
+                    0.469960451,
+                    0.241116285,
+                    0.0321550369
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 325,
+            "category": "Furniture",
+            "class_name": "clothespants",
+            "prefab_name": "PRE_PRO_Pants_02",
+            "obj_transform": {
+                "position": [
+                    0.318072617,
+                    1.798,
+                    2.92296267
+                ],
+                "rotation": [
+                    0.0,
+                    -0.694100857,
+                    0.0,
+                    0.7198777
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.318059862,
+                    1.50540423,
+                    2.922618
+                ],
+                "size": [
+                    0.2970518,
+                    0.6125164,
+                    0.05334997
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "CLOTHES",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 326,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_08",
+            "obj_transform": {
+                "position": [
+                    0.347561061,
+                    1.797,
+                    3.416913
+                ],
+                "rotation": [
+                    0.0,
+                    0.7264227,
+                    0.0,
+                    0.6872482
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.3486014,
+                    1.90511858,
+                    3.41685629
+                ],
+                "size": [
+                    0.469836473,
+                    0.241116285,
+                    0.0410347
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 327,
+            "category": "Furniture",
+            "class_name": "clothesshirt",
+            "prefab_name": "MOD_PRO_Shirt_01",
+            "obj_transform": {
+                "position": [
+                    0.335745633,
+                    1.82600009,
+                    3.42057323
+                ],
+                "rotation": [
+                    0.0,
+                    0.7264227,
+                    0.0,
+                    0.6872482
+                ],
+                "scale": [
+                    1.0,
+                    0.8636028,
+                    0.980948
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.335742533,
+                    1.55944538,
+                    3.42048979
+                ],
+                "size": [
+                    0.569245934,
+                    0.6939647,
+                    0.0735305
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "CLOTHES",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 328,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_09",
+            "obj_transform": {
+                "position": [
+                    0.337003648,
+                    1.797,
+                    3.96506643
+                ],
+                "rotation": [
+                    0.0,
+                    0.7357688,
+                    0.0,
+                    0.677232742
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.338041961,
+                    1.90511858,
+                    3.9649806
+                ],
+                "size": [
+                    0.46935904,
+                    0.241116285,
+                    0.0538444519
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 329,
+            "category": "Furniture",
+            "class_name": "hanger",
+            "prefab_name": "PRE_PRO_Coat_hanger_01_01_10",
+            "obj_transform": {
+                "position": [
+                    0.341998458,
+                    1.797,
+                    4.021974
+                ],
+                "rotation": [
+                    0.0,
+                    0.7272682,
+                    0.0,
+                    0.686353445
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.343038619,
+                    1.90511858,
+                    4.02191448
+                ],
+                "size": [
+                    0.4698082,
+                    0.241116285,
+                    0.0421867371
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "HANGABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        },
+        {
+            "id": 330,
+            "category": "Furniture",
+            "class_name": "closetdrawer",
+            "prefab_name": "PRE_FUR_Closet_02_Drawer_02",
+            "obj_transform": {
+                "position": [
+                    0.333000243,
+                    0.5991,
+                    4.0566
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.33300066,
+                    0.6993225,
+                    4.05659962
+                ],
+                "size": [
+                    0.565374553,
+                    0.200446546,
+                    0.45928818
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 331,
+            "category": "Furniture",
+            "class_name": "clothespile",
+            "prefab_name": "MOD_PRO_Clothes_pile_06",
+            "obj_transform": {
+                "position": [
+                    0.367000282,
+                    0.6095,
+                    4.059
+                ],
+                "rotation": [
+                    0.0,
+                    0.7463909,
+                    0.0,
+                    0.6655078
+                ],
+                "scale": [
+                    0.828000247,
+                    0.828000069,
+                    0.828000069
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.366999626,
+                    0.6767801,
+                    4.05900049
+                ],
+                "size": [
+                    0.299147,
+                    0.134561062,
+                    0.388669968
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "CAN_OPEN",
+                "CONTAINERS",
+                "MOVABLE"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 332,
+            "category": "Furniture",
+            "class_name": "closetdrawer",
+            "prefab_name": "PRE_FUR_Closet_02_Drawer_03",
+            "obj_transform": {
+                "position": [
+                    0.333000243,
+                    0.37,
+                    4.057
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.33300066,
+                    0.470222533,
+                    4.056999
+                ],
+                "size": [
+                    0.565374553,
+                    0.200446546,
+                    0.45928818
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 333,
+            "category": "Furniture",
+            "class_name": "closetdrawer",
+            "prefab_name": "PRE_FUR_Closet_02_Drawer_04",
+            "obj_transform": {
+                "position": [
+                    0.338000238,
+                    0.598,
+                    3.31000042
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.338000655,
+                    0.6982225,
+                    3.3099997
+                ],
+                "size": [
+                    0.565374553,
+                    0.200448319,
+                    0.947748661
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 334,
+            "category": "Furniture",
+            "class_name": "clothespile",
+            "prefab_name": "MOD_PRO_Clothes_pile_04",
+            "obj_transform": {
+                "position": [
+                    0.32700026,
+                    0.608,
+                    3.608
+                ],
+                "rotation": [
+                    0.0,
+                    -0.00420969725,
+                    0.0,
+                    0.9999912
+                ],
+                "scale": [
+                    0.7252129,
+                    0.7252129,
+                    0.7252129
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.32700026,
+                    0.666928,
+                    3.60799956
+                ],
+                "size": [
+                    0.318431139,
+                    0.11785686,
+                    0.230008125
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "CAN_OPEN",
+                "CONTAINERS",
+                "MOVABLE"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 335,
+            "category": "Furniture",
+            "class_name": "clothespile",
+            "prefab_name": "MOD_PRO_Clothes_pile_06",
+            "obj_transform": {
+                "position": [
+                    0.319000363,
+                    0.608,
+                    3.05000019
+                ],
+                "rotation": [
+                    0.0,
+                    -0.0384202,
+                    0.0,
+                    0.9992616
+                ],
+                "scale": [
+                    0.7252129,
+                    0.7252129,
+                    0.725212753
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.319000363,
+                    0.666928,
+                    3.04999948
+                ],
+                "size": [
+                    0.333050728,
+                    0.11785686,
+                    0.250984669
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "CAN_OPEN",
+                "CONTAINERS",
+                "MOVABLE"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 336,
+            "category": "Furniture",
+            "class_name": "closetdrawer",
+            "prefab_name": "PRE_FUR_Closet_02_Drawer_05",
+            "obj_transform": {
+                "position": [
+                    0.338000238,
+                    0.3673,
+                    3.31000042
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.338000655,
+                    0.467522532,
+                    3.3099997
+                ],
+                "size": [
+                    0.565374553,
+                    0.200448319,
+                    0.947748661
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 337,
+            "category": "Furniture",
+            "class_name": "clothespile",
+            "prefab_name": "MOD_PRO_Clothes_pile_03",
+            "obj_transform": {
+                "position": [
+                    0.323000431,
+                    0.3753,
+                    3.05600047
+                ],
+                "rotation": [
+                    0.0,
+                    0.0219029784,
+                    0.0,
+                    0.999760151
+                ],
+                "scale": [
+                    0.8280001,
+                    0.828000069,
+                    0.828
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.323000371,
+                    0.4425801,
+                    3.05599976
+                ],
+                "size": [
+                    0.372412562,
+                    0.134561181,
+                    0.27515316
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "CAN_OPEN",
+                "CONTAINERS",
+                "MOVABLE"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 338,
+            "category": "Furniture",
+            "class_name": "clothespile",
+            "prefab_name": "MOD_PRO_Clothes_pile_05",
+            "obj_transform": {
+                "position": [
+                    0.3290003,
+                    0.3753,
+                    3.60100031
+                ],
+                "rotation": [
+                    0.0,
+                    0.00598078966,
+                    0.0,
+                    0.999982238
+                ],
+                "scale": [
+                    0.828000247,
+                    0.828000069,
+                    0.828
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.329000235,
+                    0.4425801,
+                    3.60099959
+                ],
+                "size": [
+                    0.364470124,
+                    0.134561092,
+                    0.263878822
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "CAN_OPEN",
+                "CONTAINERS",
+                "MOVABLE"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 339,
+            "category": "Furniture",
+            "class_name": "closetdrawer",
+            "prefab_name": "PRE_FUR_Closet_02_Drawer_06",
+            "obj_transform": {
+                "position": [
+                    0.333000243,
+                    0.1393,
+                    4.057
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.33300066,
+                    0.239522517,
+                    4.056999
+                ],
+                "size": [
+                    0.565374553,
+                    0.200446546,
+                    0.45928818
+                ]
+            },
+            "properties": [],
+            "states": []
+        },
+        {
+            "id": 340,
+            "category": "Furniture",
+            "class_name": "clothespile",
+            "prefab_name": "MOD_PRO_Clothes_pile_08",
+            "obj_transform": {
+                "position": [
+                    0.367000043,
+                    0.150532,
+                    4.05900049
+                ],
+                "rotation": [
+                    0.0,
+                    0.358663857,
+                    0.0,
+                    0.9334668
+                ],
+                "scale": [
+                    0.7217808,
+                    0.546216,
+                    0.721780658
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    0.3669997,
+                    0.194915429,
+                    4.059
+                ],
+                "size": [
+                    0.385493845,
+                    0.08876744,
+                    0.37900424
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "CAN_OPEN",
+                "CONTAINERS",
+                "MOVABLE"
+            ],
+            "states": [
+                "CLOSED"
+            ]
+        },
+        {
+            "id": 105,
+            "category": "Props",
+            "class_name": "apple",
+            "prefab_name": "FMGP_PRE_Apple_1024",
+            "obj_transform": {
+                "position": [
+                    3.648,
+                    2.964,
+                    -1.288
+                ],
+                "rotation": [
+                    0.0,
+                    0.9564035,
+                    0.0,
+                    -0.292048633
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "bounding_box": {
+                "center": [
+                    1.64799988,
+                    0.9841251,
+                    -1.28800011
+                ],
+                "size": [
+                    0.2096219,
+                    0.0402507074,
+                    0.189277947
+                ]
+            },
+            "properties": [
+                "GRABBABLE",
+                "MOVABLE"
+            ],
+            "states": []
+        }
+    ],
+    "edges": [
+        {
+            "from_id": 12,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 13,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 14,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 15,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 16,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 17,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 18,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 19,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 20,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 21,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 22,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 23,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 24,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 25,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 26,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 27,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 29,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 31,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 32,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 33,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 34,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 35,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 36,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 37,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 38,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 39,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 40,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 41,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 42,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 43,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 44,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 45,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 46,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 47,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 48,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 49,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 50,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 51,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 52,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 53,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 54,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 55,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 56,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 57,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 58,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 59,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 60,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 61,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 62,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 63,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 64,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 65,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 66,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 67,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 68,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 69,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 70,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 71,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 72,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 73,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 74,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 75,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 76,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 77,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 79,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 80,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 81,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 82,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 83,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 84,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 85,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 86,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 87,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 88,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 89,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 90,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 91,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 92,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 93,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 94,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 95,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 100,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 101,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 102,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 103,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 109,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 110,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 29,
+            "to_id": 13,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 39,
+            "to_id": 40,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 43,
+            "to_id": 44,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 45,
+            "to_id": 46,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 49,
+            "to_id": 50,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 56,
+            "to_id": 63,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 59,
+            "to_id": 61,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 61,
+            "to_id": 71,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 63,
+            "to_id": 67,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 67,
+            "to_id": 73,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 81,
+            "to_id": 33,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 82,
+            "to_id": 35,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 88,
+            "to_id": 31,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 89,
+            "to_id": 31,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 90,
+            "to_id": 34,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 91,
+            "to_id": 34,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 92,
+            "to_id": 34,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 93,
+            "to_id": 34,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 94,
+            "to_id": 32,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 100,
+            "to_id": 33,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 101,
+            "to_id": 32,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 85,
+            "to_id": 27,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 86,
+            "to_id": 27,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 57,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 42,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 56,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 38,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 52,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 50,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 44,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 58,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 64,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 63,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 40,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 65,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 48,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 59,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 60,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 46,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 41,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 66,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 37,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 51,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 70,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 67,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 49,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 69,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 43,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 53,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 54,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 39,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 61,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 68,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 62,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 47,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 55,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 45,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 73,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 74,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 75,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 76,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 71,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 72,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 77,
+            "to_id": 36,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 38,
+            "to_id": 56,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 40,
+            "to_id": 56,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 42,
+            "to_id": 57,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 42,
+            "to_id": 56,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 44,
+            "to_id": 56,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 44,
+            "to_id": 58,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 46,
+            "to_id": 56,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 50,
+            "to_id": 56,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 50,
+            "to_id": 58,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 52,
+            "to_id": 56,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 57,
+            "to_id": 63,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 58,
+            "to_id": 63,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 59,
+            "to_id": 60,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 60,
+            "to_id": 61,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 61,
+            "to_id": 62,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 63,
+            "to_id": 65,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 67,
+            "to_id": 69,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 68,
+            "to_id": 73,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 69,
+            "to_id": 73,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 70,
+            "to_id": 73,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 73,
+            "to_id": 76,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 95,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 110,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 84,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 32,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 82,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 35,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 31,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 315,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 316,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 314,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 27,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 85,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 86,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 55,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 54,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 308,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 53,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 38,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 36,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 310,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 42,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 67,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 73,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 305,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 63,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 56,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 303,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 52,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 41,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 50,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 51,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 44,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 311,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 49,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 40,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 312,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 43,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 304,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 39,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 46,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 313,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 47,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 337,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 335,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 325,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 45,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 324,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 321,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 336,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 333,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 323,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 320,
+            "to_id": 109,
+            "relation_type": "FACING"
+        },
+        {
+            "from_id": 256,
+            "to_id": 257,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 260,
+            "to_id": 261,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 265,
+            "to_id": 267,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 265,
+            "to_id": 269,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 269,
+            "to_id": 271,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 315,
+            "to_id": 316,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 320,
+            "to_id": 321,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 322,
+            "to_id": 323,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 324,
+            "to_id": 325,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 330,
+            "to_id": 331,
+            "relation_type": "INSIDE"
+        },
+        {
+            "from_id": 330,
+            "to_id": 332,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 331,
+            "to_id": 332,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 332,
+            "to_id": 339,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 333,
+            "to_id": 336,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 105,
+            "to_id": 29,
+            "relation_type": "ON"
+        },
+        {
+            "from_id": 105,
+            "to_id": 11,
+            "relation_type": "INSIDE"
+        }
+    ]
+}
